@@ -6158,6 +6158,7 @@ transform:rotate(0deg);
 top: 8px;
 bottom:auto;
 left:0%;
+position:fixed;
 margin:0;
 height:64px;
 width:100%;
