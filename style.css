@@ -6158,10 +6158,10 @@ transform:rotate(0deg);
 top: 8px;
 bottom:auto;
 left:0%;
-position:fixed;
+position:absolute;
 margin:0;
 height:64px;
-width:100%;
+width:40%;
 display:block;
 
 border:0 none;
