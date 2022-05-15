@@ -5410,11 +5410,11 @@ margin:0 auto;
 }
  #ttr_menu.navbar 
 {
-height:80px;
+height:90px;
 min-height:80px;
 border-radius:0px 0px 0px 0px;
-border:solid #E7E7E7;
-border:solid rgba(231,231,231,1);
+border:solid #404040d9;
+border:solid rgba(64,64,64,0.85);
 border-width:0px 0px 0px 0px;
 box-shadow:none;
 }
