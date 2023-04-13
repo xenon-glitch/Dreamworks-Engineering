@@ -6155,13 +6155,13 @@ transform:rotate(0deg);
 -moz-transform:rotate(0deg);
 -webkit-transform:rotate(0deg);
 -o-transform:rotate(0deg);
-top: 8px;
+top: auto;
 bottom:auto;
-left:0%;
+left:auto;
 position:absolute;
 margin:auto;
-height:65px;
-width:900px;
+height:80px;
+width:500px;
 display:block;
 
 border:0 none;
